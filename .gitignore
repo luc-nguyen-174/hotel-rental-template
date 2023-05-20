@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 /src/components/demo-upload/CreateNewHome.jsx
 /src/components/demo-upload/MultiUpload.jsx.jsx
+
+
+.idea

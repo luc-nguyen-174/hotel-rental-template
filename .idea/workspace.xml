@@ -5,26 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27ad5295-c296-469c-b013-8928910ce3ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/upload/CreateNewHome.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/upload/MultiUpload.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock-api/ProductsMockApi.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-login-fb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-login-fb/src/base.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/config/SecurityConfig.java" afterDir="false" />
@@ -149,6 +129,12 @@
       <change beforePath="$PROJECT_DIR$/../2704/src/components/DemoStateHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2704/src/components/DemoStateHook.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2804/src/components/Demo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../2804/src/components/Demo.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2804/src/components/MyForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2804/src/components/MyForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-all.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/model/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/repo/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/repo/UserRepo.java" afterDir="false" />
@@ -186,16 +172,11 @@
       <change beforePath="$PROJECT_DIR$/../untitled/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/components/BasicFormik.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/components/BasicSignupFormDemo.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/components/Contries.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/config/CustomOAuth2User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/mock-api/ProductsMockApi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../using-props/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../using-props/src/components/Home.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react-api/demo/hehe.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/hehe.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react-api/demo/hoang.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/hoang.env" afterDir="false" />
@@ -281,7 +262,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -294,30 +275,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/Codegym/Module 5/demo/demo-all/public",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Codegym/Module 5/demo/demo-all/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/demo-upload" />
       <recent name="$PROJECT_DIR$/src/components/upload" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -352,7 +334,8 @@
       <workItem from="1684411881518" duration="4801000" />
       <workItem from="1684421652301" duration="2742000" />
       <workItem from="1684433344240" duration="7040000" />
-      <workItem from="1684459555726" duration="12048000" />
+      <workItem from="1684459555726" duration="12562000" />
+      <workItem from="1684587076945" duration="42000" />
     </task>
     <servers />
   </component>
