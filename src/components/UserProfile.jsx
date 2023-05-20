@@ -1,7 +1,7 @@
 import React from 'react';
-import TopHeader from "./TopHeader";
-import MainHeader from "./MainHeader";
-import Footer from "./Footer";
+import TopHeader from "./header/TopHeader";
+import MainHeader from "./header/MainHeader";
+import Footer from "./footer/Footer";
 
 function UserProfile(props) {
     return (

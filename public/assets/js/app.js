@@ -4,7 +4,6 @@ $(function () {
 
     // On window's load
     $(window).on('load', function () {
-        populateColorPlates();
         setTimeout(function () {
             $(".page_loader").fadeOut("fast");
             $('link[id="style_sheet"]').attr('href', 'assets/css/skins/default.css');
@@ -772,38 +771,6 @@ $(function () {
             "retina_detect": true
         });
     }
-
-
-    // Switching Color schema
-    function populateColorPlates() {
-        var plateStings = '<div class="option-panel option-panel-collased">\n' +
-            '    <h2>Change Color</h2>\n' +
-            '    <div class="color-plate default-plate" data-color="default"></div>\n' +
-            '    <div class="color-plate blue-plate" data-color="blue"></div>\n' +
-            '    <div class="color-plate yellow-plate" data-color="yellow"></div>\n' +
-            '    <div class="color-plate red-plate" data-color="red"></div>\n' +
-            '    <div class="color-plate green-light-plate" data-color="green-light"></div>\n' +
-            '    <div class="color-plate orange-plate" data-color="orange"></div>\n' +
-            '    <div class="color-plate yellow-light-plate" data-color="yellow-light"></div>\n' +
-            '    <div class="color-plate green-light-2-plate" data-color="green-light-2"></div>\n' +
-            '    <div class="color-plate olive-plate" data-color="olive"></div>\n' +
-            '    <div class="color-plate purple-plate" data-color="purple"></div>\n' +
-            '    <div class="color-plate blue-light-plate" data-color="blue-light"></div>\n' +
-            '    <div class="color-plate brown-plate" data-color="brown"></div>\n' +
-            '    <div class="setting-button">\n' +
-            '        <i class="fa fa-gear"></i>\n' +
-            '    </div>\n' +
-            '</div>';
-        $('body').append(plateStings);
-    }
-    $(document).on('click', '.color-plate', function () {
-        var name = $(this).attr('data-color');
-        $('link[id="style_sheet"]').attr('href', 'assets/css/skins/' + name + '.css');
-    });
-
-    $(document).on('click', '.setting-button', function () {
-        $('.option-panel').toggleClass('option-panel-collased');
-    });
 });
 
 // mCustomScrollbar initialization

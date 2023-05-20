@@ -1,14 +1,14 @@
 import React from 'react';
 import Agents from "./Agents";
 import Search from "./Search";
-import TopHeader from "./TopHeader";
-import MainHeader from "./MainHeader";
-import Footer from "./Footer";
+import TopHeader from "./header/TopHeader";
+import MainHeader from "./header/MainHeader";
+import Footer from "./footer/Footer";
 
-function Home(props) {
+function HomePage(props) {
     return (
         <div>
-
+            <div className="page_loader"></div>
             {/*Top header start*/}
             <TopHeader/>
             {/* Top header end */}
@@ -902,9 +902,9 @@ function Home(props) {
 
 
 
-            {/* Footer 2 start */}
+            {/* Footer start */}
             <Footer/>
-            {/* Footer 2 end */}
+            {/* Footer end */}
 
             {/* Full Page Search */}
             <div id="full-page-search">
@@ -1039,4 +1039,4 @@ function Home(props) {
     );
 }
 
-export default Home;
+export default HomePage;
