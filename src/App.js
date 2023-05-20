@@ -1,5 +1,5 @@
 import './App.css';
-import CreateNewHome from "./components/upload/CreateNewHome";
+import CreateNewHome from "./components/demo-upload/CreateNewHome";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "./components/Home";
 import UserProfile from "./components/UserProfile";
