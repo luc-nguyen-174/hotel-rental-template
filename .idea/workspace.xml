@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27ad5295-c296-469c-b013-8928910ce3ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/upload/CreateNewHome.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/upload/MultiUpload.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock-api/ProductsMockApi.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-login-fb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-login-fb/src/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/model/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/resources/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/ScrollToTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/cityscapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/img-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/img-login@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/imgSignup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/imgSignup@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/logonew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/logonew@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/assets/images/main-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/DeleteListing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Listing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/ListingCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Listings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/MyAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/NewListing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/NewPassword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/PasswordReset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/ProtectedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/UpdateListing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/UpdatePassword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/components/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tailwind.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tailwind.generated.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Doc3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 2/minitest/w1/lession-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 2/minitest/w1/lession-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-horizontal-form/horizon-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-horizontal-form/horizon-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-inline-form/inline-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-inline-form/inline-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-vertical-form/vertical-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-vertical-form/vertical-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/horizontal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/horizontal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/inline-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/inline-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/vertical-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/vertical-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-bs5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form-bootstrap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo_css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo_css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo_wiki/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo_wiki/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/untitled/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/untitled/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/config/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/config/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/model/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/model/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/repository/IBlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/repository/IBlogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/repository/ICategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/repository/ICategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/IGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/IGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/blog/IBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/blog/IBlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/category/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/bai_tap/blog-manager/src/main/java/com/blogger/blogmanager/service/category/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/customer-management-spring-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/customer-management-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/newCustomer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/newCustomer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/customer-mng-springboot-fe/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/controller/SmartphoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/controller/SmartphoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/model/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/model/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/repository/ISmartphoneRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/repository/ISmartphoneRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/service/ISmartphoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/service/ISmartphoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/service/SmartphoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax-spring-boot/src/main/java/com/example/demoajaxspringboot/service/SmartphoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/controller/SmartphoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/model/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/repository/ISmartphoneRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/service/ISmartphoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-ajax/src/main/java/com/demoajax/service/SmartphoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-formatter/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-jwt-fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-jwt-fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-jwt-fe/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-jwt-fe/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-sec-login/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-spring-boot/src/main/java/com/example/demospringboot/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-spring-boot/src/main/java/com/example/demospringboot/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-spring-boot/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-spring-boot/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-zingmp3-fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-zingmp3-fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demo-zingmp3-fe/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demo-zingmp3-fe/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demoupload-spring-boot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demoupload-spring-boot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/demo/demoupload-spring-boot/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/demo/demoupload-spring-boot/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/js/bookMng.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 4/minitest/book-mng-fe/js/bookMng.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2604/src/components/DemoState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2604/src/components/DemoState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2604/src/components/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2604/src/components/Hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2604/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2604/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2604/src/components/TestComponentTime.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2604/src/components/TestComponentTime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2604/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2604/src/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2704/src/components/DemoStateHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2704/src/components/DemoStateHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2804/src/components/Demo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../2804/src/components/Demo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2804/src/components/MyForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2804/src/components/MyForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/model/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/repo/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/repo/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-api/demo/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/demo.env" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/demo.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/firebase/FirebaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/firebase/FirebaseConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/model/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/repo/ImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/repo/ImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/service/ImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/java/com/example/demo/service/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo1/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/model/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/repository/ImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/repository/ImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/FileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/ImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/firebase/FirebaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-firebase/demo2/src/main/java/com/example/demo/service/firebase/FirebaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/mock-api/articles/GET.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/mock-api/articles/GET.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/mock-api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/mock-api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/mock-api/users/GET.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/mock-api/users/GET.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/mock-api/users/POST.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/mock-api/users/POST.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/mock-api/users/__user_id__/GET.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/mock-api/users/__user_id__/GET.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/src/components/Create.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/src/components/Create.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mock/src/components/List.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../mock/src/components/List.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-with-webpack/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../react-with-webpack/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-with-webpack/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-with-webpack/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-with-webpack/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-with-webpack/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-with-webpack/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-with-webpack/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-variable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript-variable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-variable/src/deno.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript-variable/src/deno.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-variable/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript-variable/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-variable/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript-variable/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/components/BasicFormik.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/components/BasicSignupFormDemo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/components/Contries.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/config/CustomOAuth2User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/mock-api/ProductsMockApi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-oauth2/src/main/java/com/example/demooauth2/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../using-props/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../using-props/src/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/hehe.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/hehe.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/hoang.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/hoang.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/nam.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/nam.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/controller/CartItemsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/controller/CartItemsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/CartItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/CartItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Carts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Carts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/OrderDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/OrderDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICartItemsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICartItemsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICartsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICartsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/ICategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IOrderDetailsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IOrderDetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IOrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IOrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/repo/IUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/IGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/IGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/carts/ICartItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/carts/ICartItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/carts/ICartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/carts/ICartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/category/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/category/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/orders/IOrderDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/orders/IOrderDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/orders/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/orders/IOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/product/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/product/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/user/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/user/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/user/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-api/demo/src/main/java/com/example/demo/service/user/impl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/src/components/ColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/src/components/ColorBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/src/components/Demo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/src/components/Demo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module Test/untitled2/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module Test/untitled2/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 01 - Pseudo Code  Flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 02 - Git  HTML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 03 - HTML Form  Table.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 04 - JavaScript Overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 05 - Variable and Data Types.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 06 - Conditional Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 07 - Loop Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 08 - Arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 09 - Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 10 - Introduction to OOP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 11 - Objects and Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TKB-Module 1 .xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/html_va_thuoctinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/html_va_thuoctinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../baitap/baitap-codegym" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo-git-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo2/demo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/1.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/Biểu đồ không có tiêu đề.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/Bản sao Biểu đồ không có tiêu đề.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/sosanh3so_abc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/tim_gia_tri_lon_nhat_trong_3_so.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/tinh_diem_trung_binh.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/Git &amp; HTML.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/luc.nguyen.C1122H1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/luc.nguyen_C1122H1_nhapmonlaptrinh.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tài liệu/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../xep_hang_hoc_sinh.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Đề cương.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pwe8wipYfGMRu5cFo0RtttFrL5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Codegym/Module 5/demo/demo-all/public",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/upload" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ad5295-c296-469c-b013-8928910ce3ce" name="Changes" comment="" />
+      <created>1684372415932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684372415932</updated>
+      <workItem from="1684372417799" duration="148000" />
+      <workItem from="1684372583503" duration="7639000" />
+      <workItem from="1684384092036" duration="726000" />
+      <workItem from="1684392519866" duration="26000" />
+      <workItem from="1684411881518" duration="4801000" />
+      <workItem from="1684421652301" duration="2742000" />
+      <workItem from="1684433344240" duration="7040000" />
+      <workItem from="1684459555726" duration="12048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
