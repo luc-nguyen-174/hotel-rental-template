@@ -5,6 +5,7 @@ import Pages404 from "./components/pages-404";
 import CreateNewHotel from "./components/NewHotel";
 import ComingSoon from "./components/ComingSoon";
 import HotelDetails from "./components/HotelDetails";
+import MyProperty from "./components/MyProperty";
 
 function App() {
     return (
@@ -15,6 +16,7 @@ function App() {
                 <Route path={'/create'} element={<CreateNewHotel/>}></Route>
                 <Route path={'/coming-soon'} element={<ComingSoon/>}></Route>
                 <Route path={'/hotels/'} element={<HotelDetails/>}></Route>
+                <Route path={'/my-property/'} element={<MyProperty/>}></Route>
 
             </Routes>
         </BrowserRouter>

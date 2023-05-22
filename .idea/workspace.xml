@@ -6,21 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27ad5295-c296-469c-b013-8928910ce3ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/maps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/particles.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/particles.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Agents.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Agents.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomeDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HotelDetails.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainHeader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/MainHeader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopHeader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/TopHeader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UserProfile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserProfile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/demo-upload/CreateNewHome.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/demo-upload/MultiUpload.jsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +58,11 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src/components/footer" />
       <recent name="$PROJECT_DIR$/src/components/header" />
       <recent name="$PROJECT_DIR$/src/components/demo-upload" />
       <recent name="$PROJECT_DIR$/src/components/upload" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -113,7 +99,9 @@
       <workItem from="1684587076945" duration="42000" />
       <workItem from="1684587125085" duration="4630000" />
       <workItem from="1684600465968" duration="53000" />
-      <workItem from="1684600528792" duration="5343000" />
+      <workItem from="1684600528792" duration="9100000" />
+      <workItem from="1684684133246" duration="341000" />
+      <workItem from="1684766638661" duration="1233000" />
     </task>
     <servers />
   </component>
